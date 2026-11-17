@@ -35,7 +35,7 @@ Follow these steps to set up the project.
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/task-manager-app.git
+git clone https://github.com/kamaalmohd79/task-manager-app.git
 
 ### 2. Navigate to the project folder
 
