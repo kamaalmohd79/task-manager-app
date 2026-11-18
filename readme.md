@@ -6,6 +6,7 @@ A simple task management application built with **JavaScript** and **Node.js**. 
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
@@ -15,6 +16,15 @@ A simple task management application built with **JavaScript** and **Node.js**. 
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+## Project Overview
+
+The Task Manager App is a command-line application that allows users to manage their tasks effectively. It provides the following functionality:
+- **Display tasks**: View all tasks along with their completion status.
+- **Add tasks**: Add new tasks to the task list.
+- **Track completion**: Check whether tasks are completed or pending.
 
 ---
 
@@ -50,5 +60,5 @@ Before setting up the project, ensure you have the following software installed:
 Follow these steps to set up the project: 
 
 1. **Clone the repository**:
-
+   ```bash
    git clone https://github.com/kamaalmohd79/task-manager-app.git
