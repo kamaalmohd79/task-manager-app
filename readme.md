@@ -1,74 +1,54 @@
-
 # Task Manager App
 
-A simple task management application built with JavaScript
-and Node.js. It helps users create, organize, and track
-their daily tasks.
+A simple task management application built with **JavaScript** and **Node.js**. This application helps users create, organize, and track their daily tasks. Users can view existing tasks, add new tasks, and check their completion status.
 
-The application allows users to view existing tasks,
-add new tasks, and check their completion status.
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
 
 ## Features
 
-- Display a list of tasks
-- Add new tasks
-- Track task completion status
-- View completed and pending tasks
+- **Display a list of tasks**: View all tasks along with their completion status.
+- **Add new tasks**: Add a new task to the task list.
+- **Track task completion status**: Check whether tasks are completed or pending.
+- **View completed and pending tasks**: Easily distinguish between completed and pending tasks.
+
+---
 
 ## Technologies Used
 
-- JavaScript
-- Node.js
-- npm
+- **JavaScript**: The primary programming language used to implement the application logic.
+- **Node.js**: A runtime environment for executing JavaScript code outside the browser.
+- **npm**: A package manager used to manage dependencies and scripts.
+
+---
 
 ## Prerequisites
 
-Before getting started, make sure you have:
+Before setting up the project, ensure you have the following software installed:
 
-- Node.js installed
-- npm installed
-- Git installed
+- **Node.js**: Required to run the application.
+- **npm**: Comes bundled with Node.js and is used to manage dependencies.
+- **Git**: Required to clone the repository.
+
+---
 
 ## Installation
 
-Follow these steps to set up the project.
+Follow these steps to set up the project:
 
-### 1. Clone the repository
-
-git clone https://github.com/kamaalmohd79/task-manager-app.git
-
-### 2. Navigate to the project folder
-
-cd task-manager-app
-
-### 3. Install dependencies
-
-npm install
-
-## Run the Application
-
-Start the application using:
-
-npm start
-
-## Usage
-
-After starting the application:
-
-1. View the existing tasks in the terminal.
-2. Add a new task.
-3. Check the task completion status.
-4. View the updated task list.
-
-## Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
-
-## License
-
-This project is intended to use the MIT License.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/kamaalmohd79/task-manager-app.git
